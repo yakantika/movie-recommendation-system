@@ -10,6 +10,10 @@ This project implements a movie recommendation system using a collaborative filt
 ## How It Works
 The system uses pre-computed similarity metrics between movies, loaded from a `similarity.pkl` file. When a user selects a movie, the system fetches the top five similar movies and displays their titles.
 
+## Demo
+Check out the **demo video** of the Movie Recommendation System in action below:
+[![Demo Video](https://drive.google.com/file/d/1KZivPZYWRq_AyI3VBjPLEw4tsLoICZoq/view?usp=sharing)
+
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository:
