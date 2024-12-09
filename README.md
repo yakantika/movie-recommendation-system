@@ -12,7 +12,7 @@ The system uses pre-computed similarity metrics between movies, loaded from a `s
 
 ## Demo
 Check out the **demo video** of the Movie Recommendation System in action below:
-[Demo Video](https://drive.google.com/file/d/1KZivPZYWRq_AyI3VBjPLEw4tsLoICZoq/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1dXdJWgmMYeflnMaYuoKumbWYBWIt9mbo/view?usp=sharing)
 
 ## Installation
 To run this project locally, follow these steps:
